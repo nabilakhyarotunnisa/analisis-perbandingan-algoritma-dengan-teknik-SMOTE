@@ -16,7 +16,7 @@ Dataset yang digunakan adalah **Heart Failure Prediction Dataset**.
 1. **Exploratory Data Analysis (EDA):** Visualisasi distribusi data dan korelasi antar fitur.
 2. **Preprocessing:** Penanganan nilai hilang, normalisasi, dan pembagian data train/test.
 3. **Handling Imbalance:** Menerapkan SMOTE untuk menyeimbangkan kelas target.
-4. **Modeling:** Membandingkan beberapa algoritma (seperti Random Forest, SVM, KNN, dll).
+4. **Modeling:** Membandingkan beberapa algoritma (Random Forest, XG-Boost, CatBoost, LightGBM).
 5. **Evaluasi:** Menggunakan Accuracy, Precision, Recall, dan F1-Score.
 
 ## 📈 Hasil Analisis
